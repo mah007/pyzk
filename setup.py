@@ -3,11 +3,11 @@ from setuptools import setup
 
 setup(
     name='pyzk',
-    version='0.9',
-    description='an unofficial library of zksoftware fingerprint device',
+    version='0.9.3.5',
+    description='an unofficial library of zksoftware fingerprint device for python 3.5',
     url='https://github.com/fananimi/pyzk',
-    author='Fanani M. Ihsan',
-    author_email='fanani.mi@gmail.com',
+    author='Mahmoud Abdel Latif',
+    author_email='mah008@me.com',
     license='LICENSE.txt',
     packages=['zk'],
     keywords=[
