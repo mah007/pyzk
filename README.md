@@ -357,16 +357,14 @@ If you have another version tested and it worked, please inform me to update thi
 
 # Related Project
 
-* [zkcluster](https://github.com/kurenai-ryu/zkcluster/ "zkcluster project") is a django apps to manage multiple fingerprint devices. (Initial support form the [original project](https://github.com/fananimi/zkcluster/))
+* [odoo zkteco](https://github.com/mah007/odoo/ "odoo zk project") is a django apps to manage multiple fingerprint devices. (Initial support form the [original project](https://github.com/mah007/odoo/))
 
 # Related Project (TODO: check compatibility with this fork)
 
-* [Driji](https://github.com/fananimi/driji/ "Driji project") is an attendance apps based fingerprint for school
+* [hr_zktecho](https://github.com/mah007/pyzk/ "hr_zktecho project") is an attendance apps based fingerprint for odoo
 
 # Todo
 
 * Create better documentation
-* ~~Finger template downloader & uploader~~
-* HTTP Rest api
-* ~~Create real time api (if possible)~~
+* create edite users throw api
 * and much more ...
